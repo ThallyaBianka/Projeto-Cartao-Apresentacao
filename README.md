@@ -1,4 +1,5 @@
 📄 Cartão de Apresentação Simples
+
 Este projeto é um cartão de apresentação digital simples, criado para exibir informações profissionais básicas de forma clara e elegante. O objetivo é servir como uma página web pessoal ou um portfólio de contato rápido, ideal para ser compartilhado em redes sociais ou em outras plataformas online.
 
 🚀 Tecnologias Utilizadas
