@@ -37,4 +37,7 @@ Navegue até o arquivo index.html.
 Dê um duplo clique para abri-lo em seu navegador padrão.
 
 ✍️ Autor
-O projeto foi criado por Thallya Bianka.
+
+Thallya Bianka – Desenvolvedora e criadora do projeto.
+
+📧 Contato: thallyabianka@gmail.com
